@@ -1,17 +1,17 @@
-### Kế hoạch thực hiện dự án cùng thầy Nguyễn Minh Hoàng - Hoangnm62 ###
+### Kế hoạch thực hiện dự án
 
 # Nodejs - Expressjs - MongoDB cơ bản và trung bình.
 
-1. Nodejs intro - Buổi 1 - done
-2. Cài đặt và cấu hình dự án - Buổi 1 - done
-3. Request (query, params, body) và Response - Buổi 1 - 70%
-4. JSON - Buổi 1 - done
-5. CRUD với Nodejs - Buổi 1 - done
-6. Routes - MVC Design Pattern - Buổi 2 - Done
-7. MongoDB - So sánh SQL và noSQL - Buổi 2 - 30%
-8. Mongoose - CRUD với MongoDB - Buổi 2 - Done
-9. Middleware - Lesson 5 - Done
-10. Error handling - Lesson 5 - Done
+1. Nodejs intro - done
+2. Cài đặt và cấu hình dự án - done
+3. Request (query, params, body) và Response - 70%
+4. JSON - done
+5. CRUD với Nodejs - done
+6. Routes - MVC Design Pattern - Done
+7. MongoDB - So sánh SQL và noSQL - 30%
+8. Mongoose - CRUD với MongoDB - Done
+9. Middleware - Done
+10. Error handling - Done
 11. Validation - Done
 12. Authentication và Authorization (json web token, bcrypt) - 100%
 13. Reset password, email verification(node mailer), refresh token
@@ -26,5 +26,5 @@
 4. Performance
 5. Security
 6. Caching
-7. Microservices, cân bằng tải... (đối với dự án lớn)
+7. Microservices, cân bằng tải...
 8. NestJS - TypeScript: Framework Nodejs
